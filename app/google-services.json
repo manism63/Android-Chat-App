@@ -1,0 +1,66 @@
+{
+  "project_info": {
+    "project_number": "268023276717",
+    "firebase_url": "https://demochat-f3ec8.firebaseio.com",
+    "project_id": "demochat-f3ec8",
+    "storage_bucket": "demochat-f3ec8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268023276717:android:8188d0099e3327c8",
+        "android_client_info": {
+          "package_name": "com.example.manish.demochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268023276717-17o1dpcmh8c6tf5utjnl9sku5fhnb9ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manish.demochat",
+            "certificate_hash": "5cf2acb225e900c465d25603bae518cdc497687e"
+          }
+        },
+        {
+          "client_id": "268023276717-3uuhtm7gr3t1tgccfgs6kipvdsv8ouha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manish.demochat",
+            "certificate_hash": "9e57c171224fa18c990c1fb3341b7ac29faf34b5"
+          }
+        },
+        {
+          "client_id": "268023276717-lcnbimi07a1p6mslu7jau3nnfh2heo75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWBYjLIcCIQPmIljKUu3R-WcGYgJxHBRE"
+        },
+        {
+          "current_key": "AIzaSyAucvp-HipyIYmlzE_B4OuS4VCOB3ZJwxg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268023276717-lcnbimi07a1p6mslu7jau3nnfh2heo75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

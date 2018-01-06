@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoChat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_status">This is my status</string>
+    <string name="default_name">Mario</string>
+</resources>
